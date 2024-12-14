@@ -5,5 +5,6 @@ public class PracticeTest1 {
 		System.out.println("Hello_class1,branch A");
 		System.out.println("Hello_class1 new changes, branch A");
 		System.out.println("Hello_class1 Branch B, branch A");
+		
 	}
 }
