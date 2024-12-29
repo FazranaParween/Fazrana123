@@ -3,6 +3,5 @@ package practice;
 public class PracticeTest2 {
 	public static void main(String[] args) {
 		System.out.println("Hello_c   lass2");
-		System.out.println();
 	}
 }
